@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Aristóteles Pantaleão Silva
+// GITHUB : https://github.com/AristotelesPantaleao
+
+console.log('Hello, World!');
