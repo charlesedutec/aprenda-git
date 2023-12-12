@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Madson
+// GITHUB: https://github.com/Madson1976
+
+console.log('Hello, World!');
