@@ -1,17 +1,17 @@
-# Seu Nome
+# José Ambrósio de Siqueira Ciriaco Neto
 
 
 ## Curso
 
-Seu curso no Senai
+Técnico em Informática para Internete
 
 ## Interesses
 
-- Algumas coisas que você gosta
+- Jogos, Filmes e LIvros
 
 ## Projetos
 
-- [Meu Projeto](https://github.com/ambrosio007/aprenda-git) Breve Descrição. Se não houver link basta contar o que você fez !
+- [Meu Projeto](https://github.com/ambrosio007/aprenda-git) 
 
 ## Link do Perfil
 
