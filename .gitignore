@@ -1,0 +1,7 @@
+# Ignorar os seguintes arquivos
+*.rar
+*.zip
+*.txt
+*.bd
+*.bkp
+*.env

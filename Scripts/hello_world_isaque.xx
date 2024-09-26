@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Seu Nome
+// GITHUB: https://github.com/SeuNome
+
+console.log('Hello, World!');
